@@ -6,8 +6,9 @@ This project is a simple shopping cart management system built with JavaScript. 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Prerequisites](#usage)
+- [Prerequisites](#prerequisites)
 - [Setup](#setup)
+- [Usage](#usage)
 
 
 
@@ -32,3 +33,10 @@ To run this project locally, you need to have a modern browser that supports Jav
 1. Clone the repository:
    ```bash
    git clone https://github.com/JS-Knights/Carto.git
+
+### Usage
+
+- Add items to your cart by clicking the plus button.
+- Remove items by clicking the minus button.
+- Delete items by using the delete button.
+- The cart will update dynamically and save the state to localStorage.
