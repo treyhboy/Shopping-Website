@@ -59,7 +59,7 @@ let AddtoCart =  (ev) =>{
     // console.log(cart)
 }
 let AddListeners = ()=>{
-    for(let i =0;i<cart.length;i{
+    for(let i =0;i<cart.length;i){
     {
         let j = "minus--" + cart[i].id;
         let l = "plus--" + cart[i].id;
@@ -212,4 +212,4 @@ let loadItems = () =>{
         AddListeners();
     });
 
-}
+}}
