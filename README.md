@@ -6,12 +6,10 @@ This project is a simple shopping cart management system built with JavaScript. 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#usage)
+- [Setup](#setup)
+
+
 
 ## Introduction
 
@@ -25,8 +23,6 @@ The Shopping Cart Management Project is a lightweight web application that allow
 - Persistent cart saved to `localStorage` for future access.
 - Simple and user-friendly UI for managing cart items.
 
-## Installation
-
 ### Prerequisites
 
 To run this project locally, you need to have a modern browser that supports JavaScript and access to a basic web server (optional for local testing).
@@ -35,4 +31,4 @@ To run this project locally, you need to have a modern browser that supports Jav
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/JS-Knights/Carto.git
